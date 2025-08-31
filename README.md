@@ -5,16 +5,16 @@
 # 🍽️ Zomato Insights Dashboard – Power BI Project
 
 # 📖 Overview
-The Zomato Insights Dashboard is a Power BI project that provides a detailed analysis of restaurant data across 15 countries, 141 cities, 250 cuisines, and 9,500+ restaurants.
+The **Zomato Insights Dashboard** is a **Power BI project** that provides a detailed analysis of restaurant data across **15 countries, 141 cities, 250 cuisines, and 9,500+ restaurants.**
 It highlights customer preferences, ratings, delivery patterns, and cuisine trends for data-driven decision-making in the food & beverage industry.
 
 # 🚀 Key Features
-🌍 Country & City Analysis – Restaurants across 15 countries and 141 cities.
-🍛 Cuisine Trends – Most popular cuisines (North Indian, Chinese, Fast Food, etc.).
-⭐ Ratings Distribution – Restaurant ratings from 1 to 5 buckets.
-🪑 Table Booking Insights – Restaurants offering booking vs. not.
-📦 Online Delivery Trends – Restaurants providing delivery services.
-🏙️ City Insights – Top cities like New Delhi, Gurgaon, Noida, and Mumbai.
++ 🌍 Country & City Analysis – Restaurants across 15 countries and 141 cities.
++ 🍛 Cuisine Trends – Most popular cuisines (North Indian, Chinese, Fast Food, etc.).
++ ⭐ Ratings Distribution – Restaurant ratings from 1 to 5 buckets.
++ 🪑 Table Booking Insights – Restaurants offering booking vs. not.
++ 📦 Online Delivery Trends – Restaurants providing delivery services.
++ 🏙️ City Insights – Top cities like New Delhi, Gurgaon, Noida, and Mumbai.
 
 
 # 🛠️ Tools & Technologies
