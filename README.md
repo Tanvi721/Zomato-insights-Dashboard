@@ -18,32 +18,32 @@ It highlights customer preferences, ratings, delivery patterns, and cuisine tren
 
 
 # 🛠️ Tools & Technologies
-Visualization Tool: Power BI
-Dataset: Zomato dataset (restaurants, cuisines, ratings, delivery)
-ETL: Power Query for data cleaning
-KPIs: Count of restaurants, cuisines, average rating, votes, delivery status
++ Visualization Tool: Power BI
++ Dataset: Zomato dataset (restaurants, cuisines, ratings, delivery)
++ ETL: Power Query for data cleaning
++ KPIs: Count of restaurants, cuisines, average rating, votes, delivery status
 
 # 📂 Project Structure
-project/ │── Zomato_Insights_Dashboard.pbix # Power BI file │── dataset/ # Zomato dataset (CSV/Excel) │── screenshots/ # Dashboard screenshots │── README.md
++ project/ │── Zomato_Insights_Dashboard.pbix # Power BI file │── dataset/ # Zomato dataset (CSV/Excel) │── screenshots/ # Dashboard screenshots │── README.md
 
 # 📸 Dashboard Preview
 (Add screenshots here for better GitHub presentation)
 Examples:
-Cuisine-wise restaurant distribution
-City-wise analysis (e.g., New Delhi, Mumbai)
-Online delivery vs dine-in trends
-Ratings breakdown
++ Cuisine-wise restaurant distribution
++ City-wise analysis (e.g., New Delhi, Mumbai)
++ Online delivery vs dine-in trends
++ Ratings breakdown
 
 # ▶️ How to Use
-Download the .pbix file from this repository.
-Open it in Power BI Desktop.
-Explore interactive visuals, filters, and slicers for insights.
+1. Download the .pbix file from this repository.
+2. Open it in Power BI Desktop.
+3. Explore interactive visuals, filters, and slicers for insights.
 
 # 🔮 Future Enhancements
-Add trend analysis over years.
-Compare Zomato with Swiggy/other platforms.
-Include customer sentiment analysis from reviews.
-Create a mobile-friendly dashboard.
++ Add trend analysis over years.
++ Compare Zomato with Swiggy/other platforms.
++ Include customer sentiment analysis from reviews.
++ Create a mobile-friendly dashboard.
 
 # 📜 License
-This project is licensed under the MIT License – free to use and modify.
++ This project is licensed under the MIT License – free to use and modify.
